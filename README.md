@@ -1,6 +1,6 @@
 <div align="center">
-  <h1">Jon Arbell De Ocampo</h1>  
-  <p>Full-Stack Developer |  (Spring Boot & Angular)  </p>
+  <h1>Jon Arbell De Ocampo</h1>  
+  <p>Full-Stack Developer |  (Spring Boot & Angular)</p>
 </div>
 
 ## About Me
