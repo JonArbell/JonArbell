@@ -1,13 +1,12 @@
 # Hi there, I'm Jon Arbell De Ocampo! 👋  
 🚀 Full-Stack Developer | Java | Spring Boot | Angular  
 
----
-
 
 ## About Me
 - 🌱 Currently learning **Spring Security & WebSocket**
 - 💻 Tech Stack: **Spring Boot, Angular, JavaScript, Tailwind CSS, PostgreSQL**
 - ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
+
 
 ---
   
@@ -20,7 +19,7 @@ Pressure yourself, or life will pressure you.
 
 
 ## 🎧 Now Playing  
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)   
+[![Spotify](https://novatorem-JonArbell.vercel.app/api/spotify)](https://open.spotify.com/user/31fsa77cizvar4zr22oxlrwdywhi)   
 
 
 ---
