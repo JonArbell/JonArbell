@@ -15,4 +15,6 @@
 
 
 ## 🔗 **Connect with me:**  
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284)
+[My portfolio](https://deocampo-jon-arbell-d.netlify.app/)
+[LinkedIn](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284)
+[Facebook](https://web.facebook.com/j.arbelldeocampo)
