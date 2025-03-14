@@ -15,4 +15,4 @@
 
 
 ## 🔗 **Connect with me:**  
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284/) 
+[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284)
