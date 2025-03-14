@@ -1,16 +1,23 @@
-<h1 align="center">Jon Arbell De Ocampo</h1>  
-<p align="center">Full-Stack Developer |  (Spring Boot & Angular)  </p>
-
+<div align="center">
+  <h1">Jon Arbell De Ocampo</h1>  
+  <p>Full-Stack Developer |  (Spring Boot & Angular)  </p>
+</div>
 
 ## About Me
 - 🌱 Currently learning **Spring Resource Server, Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server**
 - 💻 Tech Stack: **Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL**
 - ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
 
+---
 
-  
-<h2 align="center">💡 Motivational Quote </h2>
-**Pressure yourself, or life will pressure you**.
+<div align="center">
+  <h2>💡 Motivational Quote </h2>
+  <p>Pressure yourself, or life will pressure you.</p>
+</div>
+
+
+
+---
 
 
 <div align="center">
