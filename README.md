@@ -26,7 +26,7 @@
 
 <div align="center">
   <h2>🛠️ Ｔｅｃｈ&nbsp; Ｓｔａｃｋ 🛠️</h2>
-  <p style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
+  <p style="display: flex; justify-content: center; align-items: center; gap: 35px; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" height="50"/>
