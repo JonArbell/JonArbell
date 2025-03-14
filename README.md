@@ -17,7 +17,7 @@ Pressure yourself, or life will pressure you.
 
 
 ## 🎧 Now Playing  
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-items: center; gap: 20px;">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fsa77cizvar4zr22oxlrwdywhi&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fsa77cizvar4zr22oxlrwdywhi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=false" />
   </a>
