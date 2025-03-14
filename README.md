@@ -19,7 +19,7 @@ Pressure yourself, or life will pressure you.
 
 
 ## 🎧 Now Playing  
-[<img src="https://novatorem-git-main-jon-arbell-de-ocampos-projects.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350"/>](https://open.spotify.com/user/31fsa77cizvar4zr22oxlrwdywhi)
+[<img src="https://novatorem-seven-olive.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350"/>](https://open.spotify.com/user/31fsa77cizvar4zr22oxlrwdywhi)
 
 
 ---
