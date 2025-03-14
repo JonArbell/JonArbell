@@ -1,8 +1,7 @@
 <div align="center">
   <p>
-    <img src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im1lbWUiLCJ0ZXh0IjoiSGklMkMlMjBJJ20lMjBKb24lMjBBcmJlbGwlMjBEZSUyME9jYW1wbyIsImlhdCI6MTc0MTk1NDI5MH0.6It_QSJbSG3nbW2zAeJv67kv2eMCXrNo86VFsaXESos" alt="My Animated Name"/>
+    <img alt="Name animation gif" src="./my-animation-name.gif" width="300px">
   </p>
-
   <p><strong>Full-Stack Developer |  (Spring Boot & Angular)</strong></p>
 </div>
 
