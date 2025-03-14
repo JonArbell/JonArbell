@@ -7,15 +7,15 @@
 ---
 
 
-<div align="center">
-  <h2>About Me</h2>
-
+<div>
+  <h2 align="center">About Me</h2>
   <ul>
     <li>🌱 Currently learning **Spring Resource Server, Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server**</li>
     <li>💻 Tech Stack: **Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL**</li>
-    <li><⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆/li>
+    <li><⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆</li>
   </ul>
 </div>
+
 
 ---
 
