@@ -2,7 +2,7 @@
 🚀 Full-Stack Developer | Java | Spring Boot | Angular  
 
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?JonArbell=JonArbell&show_icons=true&theme=radical)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=radical)
 
 
 
