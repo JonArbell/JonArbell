@@ -23,7 +23,7 @@
 
 <div align="center">
   <h2>💡 Motivational Quote </h2>
-  <p>Pressure yourself, or life will pressure you.</p>
+  <p><strong>Pressure yourself, or life will pressure you.</strong></p>
 </div>
 
 <br><br>
