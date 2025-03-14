@@ -18,10 +18,12 @@ Pressure yourself, or life will pressure you.
 
 ## 🎧 Now Playing  
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsa77cizvar4zr22oxlrwdywhi&count=10&unique=true" />
+  
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31fsa77cizvar4zr22oxlrwdywhi&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31fsa77cizvar4zr22oxlrwdywhi&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=false" />
   </a>
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31fsa77cizvar4zr22oxlrwdywhi&count=10&unique=true" />
 </div>
 
 
