@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img alt="Name animation gif" src="./my-animation-name.gif" width="500px" height="200px">
+    <img alt="Name animation gif" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6Im1lYW53aGlsZSIsInRleHQiOiJIaSUyQyUyMEknbSUyMEpvbiUyMEFyYmVsbCUyMERlJTIwT2NhbXBvISIsImlhdCI6MTc0MTk1NzIzOH0.RZAXd2iBJJOdEHysTSYaGzYb7IHnHXASuGEoRyigsys" width="500px" height="200px">
   </h1>
   <p><strong>Full-Stack Developer |  (Spring Boot & Angular)</strong></p>
 </div>
