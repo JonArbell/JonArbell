@@ -6,6 +6,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
+
 
 - 🌱 Currently learning **Spring Security & WebSocket**
 - 💻 Tech Stack: **Spring Boot, Angular, JavaScript, Tailwind CSS, PostgreSQL**
