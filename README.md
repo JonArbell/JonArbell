@@ -9,20 +9,12 @@
 
 
   
-<center>
-
-## 💡 Motivational Quote 
-
-</center>
+<h2 align="center">💡 Motivational Quote </h2>
 **Pressure yourself, or life will pressure you.**
 
 
 
-<center>
-
-## 🎧 Ｓｐｏｔｉｆｙ 🎧
-
-</center>
+<h2 align="center">🎧 Ｓｐｏｔｉｆｙ 🎧</h2>
 
 | Recently Played | Now Playing |
 |----------------|------------|
