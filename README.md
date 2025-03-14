@@ -27,11 +27,11 @@ Pressure yourself, or life will pressure you.
 
 
 ## 📊 GitHub Stats
-![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true)
+| Profile Views | GitHub Status | Top Languages |
+|---------------|---------------|---------------|
+| ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue) | ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical)
 
 
 
