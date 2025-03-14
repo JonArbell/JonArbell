@@ -11,7 +11,7 @@
   
 
 ## 💡 Motivational Quote  
-Pressure yourself, or life will pressure you.
+**Pressure yourself, or life will pressure you.**
 
 
 
