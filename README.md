@@ -4,6 +4,7 @@
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&theme=radical)
 
 
 - 🌱 Currently learning **Spring Security & WebSocket**
