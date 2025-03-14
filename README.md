@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img alt="Name animation gif" src="./my-animation-name.gif" width="700px" height="300px">
+    <img alt="Name animation gif" src="./my-animation-name.gif" width="700px" height="250px">
   </h1>
   <p><strong>Full-Stack Developer |  (Spring Boot & Angular)</strong></p>
 </div>
