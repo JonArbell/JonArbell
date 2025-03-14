@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Ｊｏｎ  Ａｒｂｅｌｌ  Ｄｅ  Ｏｃａｍｐｏ</h1>  
+  <h1>Ｊｏｎ &nbsp;Ａｒｂｅｌｌ &nbsp;Ｄｅ &nbsp;Ｏｃａｍｐｏ</h1>  
   <p><strong>Full-Stack Developer |  (Spring Boot & Angular)</strong></p>
 </div>
 
@@ -9,7 +9,7 @@
 
 
 <div>
-  <h2 align="center">Ａｂｏｕｔ  Ｍｅ</h2>
+  <h2 align="center">Ａｂｏｕｔ&nbsp; Ｍｅ</h2>
   <ul>
     <li>🌱 Currently learning <strong>Spring Resource Server, Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server.</strong></li>
     <li>💻 Tech Stack: <strong>Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL.</strong></li>
@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <h2>💡 Ｍｙ  Ｍｏｔｉｖａｔｉｏｎａｌ  Ｑｕｏｔｅ</h2>
+  <h2>💡 Ｍｙ &nbsp;Ｍｏｔｉｖａｔｉｏｎａｌ &nbsp;Ｑｕｏｔｅ</h2>
   <p><strong>Pressure yourself, or life will pressure you.</strong></p>
 </div>
 
@@ -32,7 +32,7 @@
 
 
 <div align="center">
-  <h2>📊 ＧｉｔＨｕｂ  Ｓｔａｔuｓ</h2>
+  <h2>📊 ＧｉｔＨｕｂ&nbsp; Ｓｔａｔuｓ</h2>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
   
@@ -65,7 +65,7 @@
 
 
 <div align="center">
-  <h2>🔗 Ｃｏｎｎｅｃｔ  ｗｉｔｈ  ｍｅ</h2>
+  <h2>🔗 Ｃｏｎｎｅｃｔ &nbsp;ｗｉｔｈ&nbsp; ｍｅ</h2>
 
   | My Portfolio | LinkedIn | Facebook |
   |---------------|---------------|---------------|
