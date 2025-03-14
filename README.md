@@ -4,7 +4,7 @@
 
 ## About Me
 - 🌱 Currently learning **Spring Security & WebSocket**
-- 💻 Tech Stack: **Spring Boot, Angular, JavaScript, Tailwind CSS, PostgreSQL**
+- 💻 Tech Stack: **Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL**
 - ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
 
 
