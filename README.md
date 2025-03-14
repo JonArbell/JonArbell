@@ -26,16 +26,17 @@
 
 <div>
   <h2 align="center">🛠️ Ｔｅｃｈ&nbsp; Ｓｔａｃｋ 🛠️</h2>
-  ![Java](https://img.shields.io/badge/Java-23-007396?style=for-the-badge&logo=openjdk)  
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=for-the-badge&logo=springboot)  
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)  
-  ![Angular](https://img.shields.io/badge/Angular-19-DD0031?style=for-the-badge&logo=angular)  
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)  
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss)  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 </div>
+
+![Java](https://img.shields.io/badge/Java-23-007396?style=for-the-badge&logo=openjdk)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=for-the-badge&logo=springboot)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)  
+![Angular](https://img.shields.io/badge/Angular-19-DD0031?style=for-the-badge&logo=angular)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 <br><br>
 
