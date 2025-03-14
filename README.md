@@ -3,10 +3,16 @@
   <p>Full-Stack Developer |  (Spring Boot & Angular)</p>
 </div>
 
-## About Me
-- 🌱 Currently learning **Spring Resource Server, Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server**
-- 💻 Tech Stack: **Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL**
-- ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
+
+---
+
+
+<div align="center">
+  ## About Me
+  - 🌱 Currently learning **Spring Resource Server, Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server**
+  - 💻 Tech Stack: **Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL**
+  - ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
+</div>
 
 ---
 
