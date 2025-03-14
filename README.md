@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Jon Arbell De Ocampo</h1>  
+  <h1>Ｊｏｎ Ａｒｂｅｌｌ Ｄｅ Ｏｃａｍｐｏ</h1>  
   <p><strong>Full-Stack Developer |  (Spring Boot & Angular)</strong></p>
 </div>
 
