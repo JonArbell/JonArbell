@@ -36,7 +36,7 @@
   
   | GitHub Status | Top Languages |
   |---------------|---------------|
-  | ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical)
+  | ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical) |
 
 </div>
 
@@ -62,8 +62,10 @@
 
 <div align="center">
   <h2> 🔗 Connect with me</h2>
-  [My portfolio](https://deocampo-jon-arbell-d.netlify.app/)
-  [LinkedIn](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284)
-  [Facebook](https://web.facebook.com/j.arbelldeocampo)
+
+  | My Portfolio | LinkedIn | Facebook |
+  |---------------|---------------|
+  | ![My portfolio](https://deocampo-jon-arbell-d.netlify.app/) | ![LinkedIn](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284) | [Facebook](https://web.facebook.com/j.arbelldeocampo) | 
+
 </div>
 
