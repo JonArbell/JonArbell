@@ -2,9 +2,9 @@
 🚀 Full-Stack Developer | Java | Spring Boot | Angular  
 
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=default&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
 
