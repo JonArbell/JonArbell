@@ -19,8 +19,7 @@ Pressure yourself, or life will pressure you.
 
 
 ## 🎧 Now Playing  
-[<img src="https://novatorem-seven-olive.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350"/>](https://open.spotify.com/user/31fsa77cizvar4zr22oxlrwdywhi)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fsa77cizvar4zr22oxlrwdywhi&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
