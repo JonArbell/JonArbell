@@ -19,7 +19,7 @@ Pressure yourself, or life will pressure you.
 
 
 ## 🎧 Now Playing  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31fsa77cizvar4zr22oxlrwdywhi&cover_image=true&theme=default)
+[![Spotify](novatorem-git-main-jon-arbell-de-ocampos-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31fsa77cizvar4zr22oxlrwdywhi)
 
 
 ---
