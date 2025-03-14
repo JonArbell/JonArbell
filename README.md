@@ -16,7 +16,7 @@
 
 
 
-## 🎧 Now Playing  
+## 🎧 Ｓｐｏｔｉｆｙ 🎧 ##
 
 | Recently Played | Now Playing |
 |----------------|------------|
