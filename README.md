@@ -1,6 +1,10 @@
 # Hi there, I'm Jon Arbell De Ocampo! 👋  
 🚀 Full-Stack Developer | Java | Spring Boot | Angular  
 
+## About Me
+- 🌱 Currently learning **Spring Security & WebSocket**
+- 💻 Tech Stack: **Spring Boot, Angular, JavaScript, Tailwind CSS, PostgreSQL**
+- ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
 
 ## 📊 GitHub Stats
 ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
@@ -10,9 +14,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical)
 
 
-- 🌱 Currently learning **Spring Security & WebSocket**
-- 💻 Tech Stack: **Spring Boot, Angular, JavaScript, Tailwind CSS, PostgreSQL**
-- ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
-
-🔗 **Connect with me:**  
+## 🔗 **Connect with me:**  
 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284/)) 
