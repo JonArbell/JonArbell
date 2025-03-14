@@ -6,7 +6,6 @@
 
 ---
 
-<br><br>
 
 <div>
   <h2 align="center">About Me</h2>
