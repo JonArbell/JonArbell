@@ -9,7 +9,7 @@
 
 
 <div>
-  <h2 align="center">About Me</h2>
+  <h2 align="center">Ａｂｏｕｔ Ｍｅ</h2>
   <ul>
     <li>🌱 Currently learning <strong>Spring Resource Server, Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server.</strong></li>
     <li>💻 Tech Stack: <strong>Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL.</strong></li>
@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <h2>💡 My Motivational Quote </h2>
+  <h2>💡 Ｍｙ Ｍｏｔｉｖａｔｉｏｎａｌ Ｑｕｏｔｅ</h2>
   <p><strong>Pressure yourself, or life will pressure you.</strong></p>
 </div>
 
@@ -32,11 +32,11 @@
 
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>📊 ＧｉｔＨｕｂ Ｓｔａｔuｓ</h2>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
   
-  | GitHub Status | Top Languages |
+  | Status | Top Languages |
   |---------------|---------------|
   | ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical) |
 
@@ -65,7 +65,7 @@
 
 
 <div align="center">
-  <h2> 🔗 Connect with me</h2>
+  <h2>🔗 Ｃｏｎｎｅｃｔ ｗｉｔｈ ｍｅ</h2>
 
   | My Portfolio | LinkedIn | Facebook |
   |---------------|---------------|---------------|
