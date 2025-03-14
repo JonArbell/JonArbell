@@ -8,21 +8,18 @@
 - ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
 
 
----
   
 
 ## 💡 Motivational Quote  
 Pressure yourself, or life will pressure you.
 
 
----
 
 
 ## 🎧 Now Playing  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fsa77cizvar4zr22oxlrwdywhi&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
----
 
 
 ## 📊 GitHub Stats
@@ -33,7 +30,6 @@ Pressure yourself, or life will pressure you.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical)
 
 
----
 
 
 ## 🔗 **Connect with me:**  
