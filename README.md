@@ -1,6 +1,11 @@
 # Hi there, I'm Jon Arbell De Ocampo! 👋  
 🚀 Full-Stack Developer | Java | Spring Boot | Angular  
 
+
+![GitHub Status](https://github-readme-stats.vercel.app/api?JonArbell=your-username&show_icons=true&theme=radical)
+
+
+
 - 🌱 Currently learning **Spring Security & WebSocket**
 - 💻 Tech Stack: **Spring Boot, Angular, JavaScript, Tailwind CSS, PostgreSQL**
 - ⚡ Fun Fact: I code almost **8 - 10 hours a day** 😆
