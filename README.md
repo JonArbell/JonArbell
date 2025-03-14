@@ -12,7 +12,7 @@
 
 
 <div>
-  <h2 align="center">Ａｂｏｕｔ&nbsp; Ｍｅ</h2>
+  <h2 align="center">Ａｂｏｕｔ&nbsp;&nbsp;Ｍｅ</h2>
   <ul>
     <li>🌱 Currently learning <strong>Spring Resource Server, Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server.</strong></li>
     <li>💻 Tech Stack: <strong>Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL.</strong></li>
@@ -28,7 +28,7 @@
 
 
 <div align="center">
-  <h2>🛠️ Ｔｅｃｈ&nbsp; Ｓｔａｃｋ 🛠️</h2>
+  <h2>🛠️ Ｔｅｃｈ&nbsp;&nbsp;Ｓｔａｃｋ 🛠️</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
@@ -52,7 +52,7 @@
 ---
 
 <div align="center">
-  <h2>💡 Ｍｙ &nbsp;Ｍｏｔｉｖａｔｉｏｎａｌ &nbsp;Ｑｕｏｔｅ</h2>
+  <h2>💡 Ｍｙ&nbsp;&nbsp;Ｍｏｔｉｖａｔｉｏｎａｌ&nbsp;&nbsp;Ｑｕｏｔｅ</h2>
   <p>🌟 <strong>Pressure yourself, or life will pressure you.</strong></p>
 </div>
 
@@ -62,7 +62,7 @@
 
 
 <div align="center">
-  <h2>📊 ＧｉｔＨｕｂ&nbsp; Ｓｔａｔuｓ</h2>
+  <h2>📊 ＧｉｔＨｕｂ&nbsp;&nbsp;Ｓｔａｔuｓ</h2>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
   
@@ -93,7 +93,7 @@
 
 
 <div align="center">
-  <h2>🔗 Ｃｏｎｎｅｃｔ &nbsp;ｗｉｔｈ&nbsp; ｍｅ</h2>
+  <h2>🔗 Ｃｏｎｎｅｃｔ&nbsp;&nbsp;ｗｉｔｈ&nbsp;&nbsp;ｍｅ</h2>
 
   | [My Portfolio](https://deocampo-jon-arbell-d.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284) | [Facebook](https://web.facebook.com/j.arbelldeocampo) | 
   |---------------|---------------|---------------|
