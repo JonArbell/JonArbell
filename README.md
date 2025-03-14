@@ -40,17 +40,20 @@
 </div>
 
 
+---
 
 
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
 
+  ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
+  
+  | GitHub Status | Top Languages |
+  |---------------|---------------|
+  | ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical)
 
-## 📊 GitHub Stats
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
-
-| GitHub Status | Top Languages |
-|---------------|---------------|
-| ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&langs_count=8&theme=radical)
 
 
 
