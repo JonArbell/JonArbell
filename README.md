@@ -69,7 +69,7 @@
 
   | My Portfolio | LinkedIn | Facebook |
   |---------------|---------------|---------------|
-  | [My portfolio](https://deocampo-jon-arbell-d.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284) | [Facebook](https://web.facebook.com/j.arbelldeocampo) | 
+  | [Jon Arbell De Ocampo | Portfolio](https://deocampo-jon-arbell-d.netlify.app/) | [Jon Arbell De Ocampo | LinkedIn](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284) | [Jon Arbell De Ocampo | Facebook](https://web.facebook.com/j.arbelldeocampo) | 
 
 </div>
 
