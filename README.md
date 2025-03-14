@@ -36,7 +36,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
     <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png" alt="GitHub Logo" width="50" height="50"/>
-    <img src="https://cloud.tenable.com/mssp/logos/:logo_uuid/logo.png" alt="GitHub Logo" width="50" height="50"/>
+    <img src="https://w7.pngwing.com/pngs/509/390/png-transparent-postman-macos-bigsur-icon-thumbnail.pngg" alt="Postman Api Logo" width="50" height="50"/>
   </p>
   
 </div>
