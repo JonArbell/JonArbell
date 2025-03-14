@@ -1,5 +1,5 @@
-# Hi there, I'm Jon Arbell De Ocampo! 👋  
-🚀 Full-Stack Developer | Java | Spring Boot | Angular  
+<h1 align="center">Jon Arbell De Ocampo</h1>  
+<p align="center">Full-Stack Developer |  (Spring Boot & Angular)  </p>
 
 
 ## About Me
