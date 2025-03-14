@@ -3,6 +3,7 @@
   <p><strong>Full-Stack Developer |  (Spring Boot & Angular)</strong></p>
 </div>
 
+<br><br>
 
 ---
 
@@ -25,7 +26,7 @@
   <p>Pressure yourself, or life will pressure you.</p>
 </div>
 
-
+<br><br>
 
 ---
 
@@ -41,6 +42,7 @@
 
 </div>
 
+<br><br>
 
 
 ---
@@ -57,6 +59,7 @@
 
 </div>
 
+<br><br>
 
 ---
 
