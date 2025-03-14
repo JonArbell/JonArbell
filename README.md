@@ -4,7 +4,7 @@
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=JonArbell&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=default&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonArbell&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
 
