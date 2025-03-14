@@ -65,9 +65,8 @@
 <div align="center">
   <h2>🔗 Ｃｏｎｎｅｃｔ &nbsp;ｗｉｔｈ&nbsp; ｍｅ</h2>
 
-  | My Portfolio | LinkedIn | Facebook |
+  | [My Portfolio](https://deocampo-jon-arbell-d.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284) | [Facebook](https://web.facebook.com/j.arbelldeocampo) | 
   |---------------|---------------|---------------|
-  | [Jon Arbell De Ocampo](https://deocampo-jon-arbell-d.netlify.app/) | [Jon Arbell De Ocampo](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284) | [j.arbelldeocampo](https://web.facebook.com/j.arbelldeocampo) | 
 
 </div>
 
