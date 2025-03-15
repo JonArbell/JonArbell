@@ -14,7 +14,7 @@
   <h2 align="center">Ａｂｏｕｔ&nbsp;&nbsp;Ｍｅ</h2>
   <ul>
     <li>🌱 Currently learning <strong>Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server.</strong></li>
-    <li>💻 Tech Stack: <strong>Java Spring Boot, Spring Data JPA, Spring Security, Spring MVC, Angular, JavaScript, Tailwind CSS, PostgreSQL.</strong></li>
+    <li>💻 Tech Stack: <strong>💡 Always curious and learning something new.</strong></li>
     <li>⚡ Fun Fact: I code almost <strong>8 - 10 hours a day</strong> 😆</li>
   </ul>
 </div>
