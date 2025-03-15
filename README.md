@@ -11,7 +11,7 @@
 
 
 <div>
-  <h2 align="center">Ａｂｏｕｔ&nbsp;&nbsp;Ｍｅ</h2>
+  <h2 align="center">🙋‍♂️ Ａｂｏｕｔ&nbsp;&nbsp;Ｍｅ</h2>
   <ul>
     <li>🌱 Currently learning <strong>Spring Security's Oauth2 Client & Spring Security's Oauth2 Resource Server.</strong></li>
     <li>💡 Mindset: <strong>💡 Always curious and learning something new.</strong></li>
