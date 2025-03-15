@@ -51,7 +51,7 @@
 ---
 
 <div align="center">
-  <h2>💡 Ｍｙ&nbsp;&nbsp;Ｍｏｔｉｖａｔｉｏｎａｌ&nbsp;&nbsp;Ｑｕｏｔｅ</h2>
+  <h2>💭 Ｍｙ&nbsp;&nbsp;Ｍｏｔｉｖａｔｉｏｎａｌ&nbsp;&nbsp;Ｑｕｏｔｅ</h2>
   <p>🌟 <strong>Pressure yourself, or life will pressure you.</strong></p>
 </div>
 
