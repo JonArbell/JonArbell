@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <h2>💭 Ｍｙ&nbsp;&nbsp;ｍｏｔｔｏ&nbsp;&nbsp;ｉｎ&nbsp;&nbsp;ｌｉｆｅ</h2>
+  <h2>💭 Ｍｙ&nbsp;&nbsp;&nbsp;&nbsp;Ｍｏｔｔｏ&nbsp;&nbsp;&nbsp;&nbsp;ｉｎ&nbsp;&nbsp;&nbsp;&nbsp;Ｌｉｆｅ</h2>
   <p>🌟 <strong>Pressure yourself, or life will pressure you.</strong></p>
 </div>
 
