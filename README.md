@@ -11,7 +11,7 @@
 
 
 <div>
-  <h2 align="center">🙋‍♂️ Ａｂｏｕｔ&nbsp;&nbsp;Ｍｅ</h2>
+  <h2 align="center">🙋‍♂️ Ａｂｏｕｔ&nbsp;&nbsp;&nbsp;&nbsp;Ｍｅ</h2>
   <ul>
     <li>🌱 Currently learning <strong>Advanced Spring Security & WebSocket integration.</strong></li>
     <li>💡 Mindset: <strong>💡 Always curious and learning something new.</strong></li>
@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <h2>🛠️ Ｔｅｃｈ&nbsp;&nbsp;Ｓｔａｃｋ 🛠️</h2>
+  <h2>🛠️ Ｔｅｃｈ&nbsp;&nbsp;&nbsp;&nbsp;Ｓｔａｃｋ 🛠️</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
@@ -60,7 +60,7 @@
 
 
 <div align="center">
-  <h2>📊 ＧｉｔＨｕｂ&nbsp;&nbsp;Ｓｔａｔuｓ</h2>
+  <h2>📊 ＧｉｔＨｕｂ&nbsp;&nbsp;&nbsp;&nbsp;Ｓｔａｔuｓ</h2>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=JonArbell&color=blue)
   
