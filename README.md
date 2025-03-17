@@ -91,7 +91,7 @@
 
 
 <div align="center">
-  <h2>🔗 Ｃｏｎｎｅｃｔ&nbsp;&nbsp;ｗｉｔｈ&nbsp;&nbsp;ｍｅ</h2>
+  <h2>🔗 Ｃｏｎｎｅｃｔ&nbsp;&nbsp;&nbsp;&nbsp;ｗｉｔｈ&nbsp;&nbsp;&nbsp;&nbsp;ｍｅ</h2>
 
   | [My Portfolio](https://deocampo-jon-arbell-d.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/jon-arbell-donor-de-ocampo-134083284) | [Facebook](https://web.facebook.com/j.arbelldeocampo) | 
   |---------------|---------------|---------------|
