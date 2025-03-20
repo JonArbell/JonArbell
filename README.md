@@ -13,9 +13,9 @@
 <div>
   <h2 align="center">🙋‍♂️ Ａｂｏｕｔ&nbsp;&nbsp;&nbsp;&nbsp;Ｍｅ</h2>
   <ul>
-    <li><strong>🌱 Currently learning: </strong>Advanced Spring Security & WebSocket integration.</li>
-    <li><strong>💡 Mindset: </strong> Always curious and learning something new.</li>
-    <li><strong>🔥 Tech Stack:</strong>Primarily working with Spring Boot & Angular, but open to learning other stacks.</li>
+    <li><strong>🌱 Currently learning:</strong> Advanced Spring Security & WebSocket integration.</li>
+    <li><strong>💡 Mindset:</strong> Always curious and learning something new.</li>
+    <li><strong>🔥 Tech Stack:</strong> Primarily working with Spring Boot & Angular, but open to learning other stacks.</li>
     <li><strong>⚡ Fun Fact:</strong> I code almost <strong>8 - 10 hours a day. 😆</li>
   </ul>
 </div>
