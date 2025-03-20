@@ -15,6 +15,7 @@
   <ul>
     <li>🌱 Currently learning <strong>Advanced Spring Security & WebSocket integration.</strong></li>
     <li>💡 Mindset: <strong>💡 Always curious and learning something new.</strong></li>
+    <li>🔥 Tech Stack:  <strong>Primarily working with Spring Boot & Angular, but open to learning other stacks. </strong></li>
     <li>⚡ Fun Fact: I code almost <strong>8 - 10 hours a day.</strong> 😆</li>
   </ul>
 </div>
@@ -27,7 +28,7 @@
 
 
 <div align="center">
-  <h2>🛠️ Ｔｅｃｈ&nbsp;&nbsp;&nbsp;&nbsp;Ｓｔａｃｋ 🛠️</h2>
+  <h2>🛠️ Ｔｅｃｈｎｏｌｏｇｉｅｓ&nbsp;&nbsp;&nbsp;&nbsp;Ｉ&nbsp;&nbsp;&nbsp;&nbsp;ｕｓｅｄ 🛠️</h2>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
